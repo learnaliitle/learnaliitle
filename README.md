@@ -14,10 +14,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://yehuo.icu/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-<!--     <a href="https://liuyueyi.github.io/tutorial/"><img src="https://img.shields.io/badge/Site-站点-blue" /></a>&emsp;
-    <a href="https://paicoding.com"><img src="https://img.shields.io/badge/PaiCoding-技术派-c32136" /></a>&emsp; -->
-    <a href="https://web-framework-hth-01.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E6%B7%BB%E5%8A%A0.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+ 
+
 <!--     <a href="https://juejin.cn/user/377887729916126"><img src="https://img.shields.io/badge/Juejin-掘金-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/liuyueyi25/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/liu-yue-44-20"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
