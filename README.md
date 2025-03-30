@@ -1,8 +1,5 @@
 ##  &nbsp; wuhoulin :fire:
-- :zap: 26届毕业生 Java开发 or 什么都干？
-- :rainbow: 个人博客：[`野火一季的个人博客`](https://yehuo.icu) 
-
-
+- :zap: 26届毕业生 Java开发？
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
