@@ -1,5 +1,5 @@
 ##  &nbsp; wuhoulin :fire:
-- :zap: 26届毕业生 Java开发？
+- :zap: 26届毕业生 Java开发
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -8,7 +8,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yehuo.icu/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=console.log('welcome to 野火一季's github');Just Do IT!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=console.log('welcome to wuhoulin's github');Just Do IT!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
